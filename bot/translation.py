@@ -5,9 +5,8 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+<i>ഹി ഞാൻ സിനിമ കോടതി ഗ്രൂപ്പിൽ മാത്രം ഉപയോകിക്കാൻ കഴിയു സമയം കളയണ്ട😜😜😜....😉
+Join 👉@cinemakodathi👈🔥🔥😝
 
 For More Details Click Help Button Below..
 @cinemakodathi
